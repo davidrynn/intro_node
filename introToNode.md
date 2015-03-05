@@ -66,7 +66,7 @@ The next few lines are all connected and inter-related.  The `http` object has a
 
 For those coming from other languages, this programming paradigm may look odd, but it can be very powerful, in terms of conserving lines of code.
 
-Here's another way we code have written the same code:
+Here's another way we could have written the same code:
 
 ```
 
